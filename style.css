@@ -9,3 +9,7 @@ align-items : center;
 padding : 5% 20%;
 color: white;
 }
+
+header img{
+ margin-right:10px; 
+}
