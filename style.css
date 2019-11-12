@@ -13,4 +13,13 @@ color: white;
 header img{
  margin-right:25px;
  border:6px;
+ border-color:black;
+}
+
+header h1{
+font-family: 'Staatliches';
+}
+
+header p{
+ font-family: 'Montserrat', sans-serif; 
 }
