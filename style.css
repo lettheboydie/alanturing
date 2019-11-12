@@ -16,10 +16,18 @@ header img{
  border-color:black;
 }
 
-header h1{
+h1{
 font-family: 'Staatliches';
 }
 
-header p{
+p{
  font-family: 'Montserrat', sans-serif; 
 }
+
+  
+.flex2 {
+display : flex;
+justify-content : center;
+align-items : flex-start;
+}
+
