@@ -1,8 +1,11 @@
+header{
+  background-color :#999999;
+}
 
 .flex1 {
 display : flex;
 justify-content : center;
 align-items : center;
 padding : 5% 20%;
-color : white;
+color: white;
 }
