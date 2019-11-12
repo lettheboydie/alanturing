@@ -31,3 +31,11 @@ justify-content : center;
 align-items : flex-start;
 }
 
+.about {
+margin : 0 70px;
+margin-top : 20px;
+margin-bottom: 20px;
+padding : 5% 20%;
+font-family : Montserrat;
+border-style: inset;
+}
