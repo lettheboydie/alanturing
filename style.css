@@ -42,9 +42,11 @@ border-style: inset;
 
 footer {
 
-background-color : black;
+background-color : #000000;
 
-font-family : Montserrat;
+font-family:Montserrat;
+
+color:#ffffff;
 
 }
 
