@@ -39,3 +39,31 @@ padding : 5% 20%;
 font-family : Montserrat;
 border-style: inset;
 }
+
+footer {
+
+background-color : purple;
+
+font-family : Montserrat;
+
+}
+
+
+
+.contact {
+
+padding : 5% 20%;
+
+display : flex;
+
+justify-content : flex-start;
+
+align-items : flex-start;
+
+flex-direction : column;
+
+box-sizing : border-box;
+
+width : 100%;
+
+}
